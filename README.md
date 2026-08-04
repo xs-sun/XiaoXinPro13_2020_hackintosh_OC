@@ -87,8 +87,9 @@
 
 ---
 
-## 👏 致谢 (Credits)
+## 👏 致谢 & 参考项目 (Credits & References)
 
+- [lovesakuratears/XiaoXinPro13_hackintosh_OC](https://github.com/lovesakuratears/XiaoXinPro13_hackintosh_OC) 提供基础 EFI 架构与配置参考。
 - [Acidanthera](https://github.com/acidanthera) 提供 OpenCore, Lilu, WhateverGreen, AppleALC, VirtualSMC, RestrictEvents 等卓越开源驱动。
 - [OpenCore Legacy Patcher (OCLP)](https://github.com/dortania/OpenCore-Legacy-Patcher) 项目团队。
 - [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C) 团队提供触摸板驱动支持。
