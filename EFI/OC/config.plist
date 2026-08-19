@@ -541,6 +541,10 @@
 				<data>
 				AAAwAQ==
 				</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>
+				AAAAgA==
+				</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 			</dict>
@@ -1069,8 +1073,6 @@
 			<string>None</string>
 			<key>HibernateSkipsPicker</key>
 			<false/>
-			<key>HideAuxiliary</key>
-			<true/>
 			<key>Hide</key>
 			<array>
 				<string>MacOS</string>
@@ -1081,6 +1083,8 @@
 				<string>Update</string>
 				<string>Recovery</string>
 			</array>
+			<key>HideAuxiliary</key>
+			<true/>
 			<key>InstanceIdentifier</key>
 			<string></string>
 			<key>LauncherOption</key>
